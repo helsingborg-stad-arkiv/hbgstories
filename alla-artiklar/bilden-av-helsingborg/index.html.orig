@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html lang="sv-SE">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Hbg Stories | hbg stories &#x2d; bilden av Helsingborg</title>
+
+    <meta name="pubdate" content="2020-11-05">
+    <meta name="moddate" content="2020-11-12">
+
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=yes">
+    <meta name="HandheldFriendly" content="true"/>
+
+    <script>
+        var ajaxurl = 'https://hbgstories.se/wp/wp-admin/admin-ajax.php';
+    </script>
+
+    <style id="kirki-css-vars">:root{}</style><meta name='robots' content='max-image-preview:large' />
+
+<!-- The SEO Framework av Sybre Waaijer -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1" />
+<meta name="description" content="Hbg stories &auml;r mer &auml;n ett magasin. Det &auml;r ett koncept. Vi best&auml;mde oss d&auml;rf&ouml;r f&ouml;r att uppmana alla fotointresserade helsingborgare att skicka in de bilder till&#8230;" />
+<meta property="og:locale" content="sv_SE" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="hbg stories &#x2d; bilden av Helsingborg" />
+<meta property="og:description" content="Hbg stories &auml;r mer &auml;n ett magasin. Det &auml;r ett koncept. Vi best&auml;mde oss d&auml;rf&ouml;r f&ouml;r att uppmana alla fotointresserade helsingborgare att skicka in de bilder till oss som de tycker speglar staden b&auml;st." />
+<meta property="og:url" content="https://hbgstories.se/alla-artiklar/bilden-av-helsingborg/" />
+<meta property="og:site_name" content="Hbg Stories" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="hbg stories &#x2d; bilden av Helsingborg" />
+<meta name="twitter:description" content="Hbg stories &auml;r mer &auml;n ett magasin. Det &auml;r ett koncept. Vi best&auml;mde oss d&auml;rf&ouml;r f&ouml;r att uppmana alla fotointresserade helsingborgare att skicka in de bilder till oss som de tycker speglar staden b&auml;st." />
+<link rel="canonical" href="https://hbgstories.se/alla-artiklar/bilden-av-helsingborg/" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://hbgstories.se/","name":"Hbg stories magasin"}},{"@type":"ListItem","position":2,"item":{"@id":"https://hbgstories.se/alla-artiklar/","name":"Alla artiklar"}},{"@type":"ListItem","position":3,"item":{"@id":"https://hbgstories.se/alla-artiklar/bilden-av-helsingborg/","name":"hbg stories &#8211; bilden av Helsingborg"}}]}</script>
+<!-- / The SEO Framework av Sybre Waaijer | 1.80ms meta | 0.31ms boot -->
+
+<link rel='dns-prefetch' href='//helsingborg-stad.github.io' />
+<link rel='dns-prefetch' href='//hbgstories.se' />
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<link rel='dns-prefetch' href='//instant.page' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script>(function(){function aa(a,b,c){return a.call.apply(a.bind,arguments)}function ba(a,b,c){if(!a)throw Error();if(2<arguments.length){var d=Array.prototype.slice.call(arguments,2);return function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return a.apply(b,c)}}return function(){return a.apply(b,arguments)}}function p(a,b,c){p=Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native code")?aa:ba;return p.apply(null,arguments)}var q=Date.now||function(){return+new Date};function ca(a,b){this.a=a;this.m=b||a;this.c=this.m.document}var da=!!window.FontFace;function t(a,b,c,d){b=a.c.createElement(b);if(c)for(var e in c)c.hasOwnProperty(e)&&("style"==e?b.style.cssText=c[e]:b.setAttribute(e,c[e]));d&&b.appendChild(a.c.createTextNode(d));return b}function u(a,b,c){a=a.c.getElementsByTagName(b)[0];a||(a=document.documentElement);a.insertBefore(c,a.lastChild)}function v(a){a.parentNode&&a.parentNode.removeChild(a)}
+function w(a,b,c){b=b||[];c=c||[];for(var d=a.className.split(/\s+/),e=0;e<b.length;e+=1){for(var f=!1,g=0;g<d.length;g+=1)if(b[e]===d[g]){f=!0;break}f||d.push(b[e])}b=[];for(e=0;e<d.length;e+=1){f=!1;for(g=0;g<c.length;g+=1)if(d[e]===c[g]){f=!0;break}f||b.push(d[e])}a.className=b.join(" ").replace(/\s+/g," ").replace(/^\s+|\s+$/,"")}function y(a,b){for(var c=a.className.split(/\s+/),d=0,e=c.length;d<e;d++)if(c[d]==b)return!0;return!1}
+function z(a){if("string"===typeof a.f)return a.f;var b=a.m.location.protocol;"about:"==b&&(b=a.a.location.protocol);return"https:"==b?"https:":"http:"}function ea(a){return a.m.location.hostname||a.a.location.hostname}
+function A(a,b,c){function d(){k&&e&&f&&(k(g),k=null)}b=t(a,"link",{rel:"stylesheet",href:b,media:"all"});var e=!1,f=!0,g=null,k=c||null;da?(b.onload=function(){e=!0;d()},b.onerror=function(){e=!0;g=Error("Stylesheet failed to load");d()}):setTimeout(function(){e=!0;d()},0);u(a,"head",b)}
+function B(a,b,c,d){var e=a.c.getElementsByTagName("head")[0];if(e){var f=t(a,"script",{src:b}),g=!1;f.onload=f.onreadystatechange=function(){g||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(g=!0,c&&c(null),f.onload=f.onreadystatechange=null,"HEAD"==f.parentNode.tagName&&e.removeChild(f))};e.appendChild(f);setTimeout(function(){g||(g=!0,c&&c(Error("Script load timeout")))},d||5E3);return f}return null};function C(){this.a=0;this.c=null}function D(a){a.a++;return function(){a.a--;E(a)}}function F(a,b){a.c=b;E(a)}function E(a){0==a.a&&a.c&&(a.c(),a.c=null)};function G(a){this.a=a||"-"}G.prototype.c=function(a){for(var b=[],c=0;c<arguments.length;c++)b.push(arguments[c].replace(/[\W_]+/g,"").toLowerCase());return b.join(this.a)};function H(a,b){this.c=a;this.f=4;this.a="n";var c=(b||"n4").match(/^([nio])([1-9])$/i);c&&(this.a=c[1],this.f=parseInt(c[2],10))}function fa(a){return I(a)+" "+(a.f+"00")+" 300px "+J(a.c)}function J(a){var b=[];a=a.split(/,\s*/);for(var c=0;c<a.length;c++){var d=a[c].replace(/['"]/g,"");-1!=d.indexOf(" ")||/^\d/.test(d)?b.push("'"+d+"'"):b.push(d)}return b.join(",")}function K(a){return a.a+a.f}function I(a){var b="normal";"o"===a.a?b="oblique":"i"===a.a&&(b="italic");return b}
+function ga(a){var b=4,c="n",d=null;a&&((d=a.match(/(normal|oblique|italic)/i))&&d[1]&&(c=d[1].substr(0,1).toLowerCase()),(d=a.match(/([1-9]00|normal|bold)/i))&&d[1]&&(/bold/i.test(d[1])?b=7:/[1-9]00/.test(d[1])&&(b=parseInt(d[1].substr(0,1),10))));return c+b};function ha(a,b){this.c=a;this.f=a.m.document.documentElement;this.h=b;this.a=new G("-");this.j=!1!==b.events;this.g=!1!==b.classes}function ia(a){a.g&&w(a.f,[a.a.c("wf","loading")]);L(a,"loading")}function M(a){if(a.g){var b=y(a.f,a.a.c("wf","active")),c=[],d=[a.a.c("wf","loading")];b||c.push(a.a.c("wf","inactive"));w(a.f,c,d)}L(a,"inactive")}function L(a,b,c){if(a.j&&a.h[b])if(c)a.h[b](c.c,K(c));else a.h[b]()};function ja(){this.c={}}function ka(a,b,c){var d=[],e;for(e in b)if(b.hasOwnProperty(e)){var f=a.c[e];f&&d.push(f(b[e],c))}return d};function N(a,b){this.c=a;this.f=b;this.a=t(this.c,"span",{"aria-hidden":"true"},this.f)}function O(a){u(a.c,"body",a.a)}function P(a){return"display:block;position:absolute;top:-9999px;left:-9999px;font-size:300px;width:auto;height:auto;line-height:normal;margin:0;padding:0;font-variant:normal;white-space:nowrap;font-family:"+J(a.c)+";"+("font-style:"+I(a)+";font-weight:"+(a.f+"00")+";")};function Q(a,b,c,d,e,f){this.g=a;this.j=b;this.a=d;this.c=c;this.f=e||3E3;this.h=f||void 0}Q.prototype.start=function(){var a=this.c.m.document,b=this,c=q(),d=new Promise(function(d,e){function k(){q()-c>=b.f?e():a.fonts.load(fa(b.a),b.h).then(function(a){1<=a.length?d():setTimeout(k,25)},function(){e()})}k()}),e=new Promise(function(a,d){setTimeout(d,b.f)});Promise.race([e,d]).then(function(){b.g(b.a)},function(){b.j(b.a)})};function R(a,b,c,d,e,f,g){this.v=a;this.B=b;this.c=c;this.a=d;this.s=g||"BESbswy";this.f={};this.w=e||3E3;this.u=f||null;this.o=this.j=this.h=this.g=null;this.g=new N(this.c,this.s);this.h=new N(this.c,this.s);this.j=new N(this.c,this.s);this.o=new N(this.c,this.s);a=new H(this.a.c+",serif",K(this.a));a=P(a);this.g.a.style.cssText=a;a=new H(this.a.c+",sans-serif",K(this.a));a=P(a);this.h.a.style.cssText=a;a=new H("serif",K(this.a));a=P(a);this.j.a.style.cssText=a;a=new H("sans-serif",K(this.a));a=
+P(a);this.o.a.style.cssText=a;O(this.g);O(this.h);O(this.j);O(this.o)}var S={D:"serif",C:"sans-serif"},T=null;function U(){if(null===T){var a=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent);T=!!a&&(536>parseInt(a[1],10)||536===parseInt(a[1],10)&&11>=parseInt(a[2],10))}return T}R.prototype.start=function(){this.f.serif=this.j.a.offsetWidth;this.f["sans-serif"]=this.o.a.offsetWidth;this.A=q();la(this)};
+function ma(a,b,c){for(var d in S)if(S.hasOwnProperty(d)&&b===a.f[S[d]]&&c===a.f[S[d]])return!0;return!1}function la(a){var b=a.g.a.offsetWidth,c=a.h.a.offsetWidth,d;(d=b===a.f.serif&&c===a.f["sans-serif"])||(d=U()&&ma(a,b,c));d?q()-a.A>=a.w?U()&&ma(a,b,c)&&(null===a.u||a.u.hasOwnProperty(a.a.c))?V(a,a.v):V(a,a.B):na(a):V(a,a.v)}function na(a){setTimeout(p(function(){la(this)},a),50)}function V(a,b){setTimeout(p(function(){v(this.g.a);v(this.h.a);v(this.j.a);v(this.o.a);b(this.a)},a),0)};function W(a,b,c){this.c=a;this.a=b;this.f=0;this.o=this.j=!1;this.s=c}var X=null;W.prototype.g=function(a){var b=this.a;b.g&&w(b.f,[b.a.c("wf",a.c,K(a).toString(),"active")],[b.a.c("wf",a.c,K(a).toString(),"loading"),b.a.c("wf",a.c,K(a).toString(),"inactive")]);L(b,"fontactive",a);this.o=!0;oa(this)};
+W.prototype.h=function(a){var b=this.a;if(b.g){var c=y(b.f,b.a.c("wf",a.c,K(a).toString(),"active")),d=[],e=[b.a.c("wf",a.c,K(a).toString(),"loading")];c||d.push(b.a.c("wf",a.c,K(a).toString(),"inactive"));w(b.f,d,e)}L(b,"fontinactive",a);oa(this)};function oa(a){0==--a.f&&a.j&&(a.o?(a=a.a,a.g&&w(a.f,[a.a.c("wf","active")],[a.a.c("wf","loading"),a.a.c("wf","inactive")]),L(a,"active")):M(a.a))};function pa(a){this.j=a;this.a=new ja;this.h=0;this.f=this.g=!0}pa.prototype.load=function(a){this.c=new ca(this.j,a.context||this.j);this.g=!1!==a.events;this.f=!1!==a.classes;qa(this,new ha(this.c,a),a)};
+function ra(a,b,c,d,e){var f=0==--a.h;(a.f||a.g)&&setTimeout(function(){var a=e||null,k=d||null||{};if(0===c.length&&f)M(b.a);else{b.f+=c.length;f&&(b.j=f);var h,m=[];for(h=0;h<c.length;h++){var l=c[h],n=k[l.c],r=b.a,x=l;r.g&&w(r.f,[r.a.c("wf",x.c,K(x).toString(),"loading")]);L(r,"fontloading",x);r=null;null===X&&(X=window.FontFace?(x=/Gecko.*Firefox\/(\d+)/.exec(window.navigator.userAgent))?42<parseInt(x[1],10):!0:!1);X?r=new Q(p(b.g,b),p(b.h,b),b.c,l,b.s,n):r=new R(p(b.g,b),p(b.h,b),b.c,l,b.s,a,
+n);m.push(r)}for(h=0;h<m.length;h++)m[h].start()}},0)}function qa(a,b,c){var d=[],e=c.timeout;ia(b);var d=ka(a.a,c,a.c),f=new W(a.c,b,e);a.h=d.length;b=0;for(c=d.length;b<c;b++)d[b].load(function(b,d,c){ra(a,f,b,d,c)})};function sa(a,b){this.c=a;this.a=b}function ta(a,b,c){var d=z(a.c);a=(a.a.api||"fast.fonts.net/jsapi").replace(/^.*http(s?):(\/\/)?/,"");return d+"//"+a+"/"+b+".js"+(c?"?v="+c:"")}
+sa.prototype.load=function(a){function b(){if(f["__mti_fntLst"+d]){var c=f["__mti_fntLst"+d](),e=[],h;if(c)for(var m=0;m<c.length;m++){var l=c[m].fontfamily;void 0!=c[m].fontStyle&&void 0!=c[m].fontWeight?(h=c[m].fontStyle+c[m].fontWeight,e.push(new H(l,h))):e.push(new H(l))}a(e)}else setTimeout(function(){b()},50)}var c=this,d=c.a.projectId,e=c.a.version;if(d){var f=c.c.m;B(this.c,ta(c,d,e),function(e){e?a([]):(f["__MonotypeConfiguration__"+d]=function(){return c.a},b())}).id="__MonotypeAPIScript__"+
+d}else a([])};function ua(a,b){this.c=a;this.a=b}ua.prototype.load=function(a){var b,c,d=this.a.urls||[],e=this.a.families||[],f=this.a.testStrings||{},g=new C;b=0;for(c=d.length;b<c;b++)A(this.c,d[b],D(g));var k=[];b=0;for(c=e.length;b<c;b++)if(d=e[b].split(":"),d[1])for(var h=d[1].split(","),m=0;m<h.length;m+=1)k.push(new H(d[0],h[m]));else k.push(new H(d[0]));F(g,function(){a(k,f)})};function va(a,b,c){a?this.c=a:this.c=b+wa;this.a=[];this.f=[];this.g=c||""}var wa="//fonts.googleapis.com/css";function xa(a,b){for(var c=b.length,d=0;d<c;d++){var e=b[d].split(":");3==e.length&&a.f.push(e.pop());var f="";2==e.length&&""!=e[1]&&(f=":");a.a.push(e.join(f))}}
+function ya(a){if(0==a.a.length)throw Error("No fonts to load!");if(-1!=a.c.indexOf("kit="))return a.c;for(var b=a.a.length,c=[],d=0;d<b;d++)c.push(a.a[d].replace(/ /g,"+"));b=a.c+"?family="+c.join("%7C");0<a.f.length&&(b+="&subset="+a.f.join(","));0<a.g.length&&(b+="&text="+encodeURIComponent(a.g));return b};function za(a){this.f=a;this.a=[];this.c={}}
+var Aa={latin:"BESbswy","latin-ext":"\u00e7\u00f6\u00fc\u011f\u015f",cyrillic:"\u0439\u044f\u0416",greek:"\u03b1\u03b2\u03a3",khmer:"\u1780\u1781\u1782",Hanuman:"\u1780\u1781\u1782"},Ba={thin:"1",extralight:"2","extra-light":"2",ultralight:"2","ultra-light":"2",light:"3",regular:"4",book:"4",medium:"5","semi-bold":"6",semibold:"6","demi-bold":"6",demibold:"6",bold:"7","extra-bold":"8",extrabold:"8","ultra-bold":"8",ultrabold:"8",black:"9",heavy:"9",l:"3",r:"4",b:"7"},Ca={i:"i",italic:"i",n:"n",normal:"n"},
+Da=/^(thin|(?:(?:extra|ultra)-?)?light|regular|book|medium|(?:(?:semi|demi|extra|ultra)-?)?bold|black|heavy|l|r|b|[1-9]00)?(n|i|normal|italic)?$/;
+function Ea(a){for(var b=a.f.length,c=0;c<b;c++){var d=a.f[c].split(":"),e=d[0].replace(/\+/g," "),f=["n4"];if(2<=d.length){var g;var k=d[1];g=[];if(k)for(var k=k.split(","),h=k.length,m=0;m<h;m++){var l;l=k[m];if(l.match(/^[\w-]+$/)){var n=Da.exec(l.toLowerCase());if(null==n)l="";else{l=n[2];l=null==l||""==l?"n":Ca[l];n=n[1];if(null==n||""==n)n="4";else var r=Ba[n],n=r?r:isNaN(n)?"4":n.substr(0,1);l=[l,n].join("")}}else l="";l&&g.push(l)}0<g.length&&(f=g);3==d.length&&(d=d[2],g=[],d=d?d.split(","):
+g,0<d.length&&(d=Aa[d[0]])&&(a.c[e]=d))}a.c[e]||(d=Aa[e])&&(a.c[e]=d);for(d=0;d<f.length;d+=1)a.a.push(new H(e,f[d]))}};function Fa(a,b){this.c=a;this.a=b}var Ga={Arimo:!0,Cousine:!0,Tinos:!0};Fa.prototype.load=function(a){var b=new C,c=this.c,d=new va(this.a.api,z(c),this.a.text),e=this.a.families;xa(d,e);var f=new za(e);Ea(f);A(c,ya(d),D(b));F(b,function(){a(f.a,f.c,Ga)})};function Ha(a,b){this.c=a;this.a=b}Ha.prototype.load=function(a){var b=this.a.id,c=this.c.m;b?B(this.c,(this.a.api||"https://use.typekit.net")+"/"+b+".js",function(b){if(b)a([]);else if(c.Typekit&&c.Typekit.config&&c.Typekit.config.fn){b=c.Typekit.config.fn;for(var e=[],f=0;f<b.length;f+=2)for(var g=b[f],k=b[f+1],h=0;h<k.length;h++)e.push(new H(g,k[h]));try{c.Typekit.load({events:!1,classes:!1,async:!0})}catch(m){}a(e)}},2E3):a([])};function Ia(a,b){this.c=a;this.f=b;this.a=[]}Ia.prototype.load=function(a){var b=this.f.id,c=this.c.m,d=this;b?(c.__webfontfontdeckmodule__||(c.__webfontfontdeckmodule__={}),c.__webfontfontdeckmodule__[b]=function(b,c){for(var g=0,k=c.fonts.length;g<k;++g){var h=c.fonts[g];d.a.push(new H(h.name,ga("font-weight:"+h.weight+";font-style:"+h.style)))}a(d.a)},B(this.c,z(this.c)+(this.f.api||"//f.fontdeck.com/s/css/js/")+ea(this.c)+"/"+b+".js",function(b){b&&a([])})):a([])};var Y=new pa(window);Y.a.c.custom=function(a,b){return new ua(b,a)};Y.a.c.fontdeck=function(a,b){return new Ia(b,a)};Y.a.c.monotype=function(a,b){return new sa(b,a)};Y.a.c.typekit=function(a,b){return new Ha(b,a)};Y.a.c.google=function(a,b){return new Fa(b,a)};var Z={load:p(Y.load,Y)};"function"===typeof define&&define.amd?define(function(){return Z}):"undefined"!==typeof module&&module.exports?module.exports=Z:(window.WebFont=Z,window.WebFontConfig&&Y.load(window.WebFontConfig));}());
+</script><link rel='stylesheet' id='hbg-prime-css'  href='//helsingborg-stad.github.io/styleguide-web/dist/css/hbg-prime-blue.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='municipio-css'  href='https://hbgstories.se/wp-content/themes/municipio/assets/dist/css/app.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://hbgstories.se/wp/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='form-builder-css'  href='https://hbgstories.se/wp-content/plugins/modularity-form-builder/dist/css/modularity-form-builder.067cd7cb.css' type='text/css' media='all' />
+<script type='text/javascript' id='hbg-prime-js-extra'>
+/* <![CDATA[ */
+var HbgPrimeArgs = {"api":{"root":"https:\/\/hbgstories.se\/wp-json\/","nonce":"ee2c0cb4cc","postTypeRestUrl":"https:\/\/hbgstories.se\/wp-json\/wp\/v2\/pages"},"cookieConsent":{"show":true,"message":"<p>P\u00e5 den h\u00e4r webbplatsen anv\u00e4nder vi cookies (kakor) f\u00f6r att webbplatsen ska fungera p\u00e5 ett bra s\u00e4tt f\u00f6r dig. Genom att klicka vidare godk\u00e4nner du att vi anv\u00e4nder cookies.<\/p>\n","button":"Got it!","placement":"bottom-fixed"},"googleTranslate":{"gaTrack":null,"gaUA":"UA-64764811-39"},"scrollElevator":{"cta":null,"tooltip":null,"tooltipPosition":null},"tableFilter":{"empty":"Inga matchande filter hittades\u2026"}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='//helsingborg-stad.github.io/styleguide-web/dist/js/hbg-prime.min.js?ver=5.7.2' id='hbg-prime-js'></script>
+<script type='text/javascript' id='municipio-js-extra'>
+/* <![CDATA[ */
+var MunicipioLang = {"printbreak":{"tooltip":"Infoga sidbrytning f\u00f6r utskrift"},"messages":{"deleteComment":"\u00c4r du s\u00e4ker p\u00e5 att du vill ta bort kommentaren?","onError":"N\u00e5got gick fel, v\u00e4nligen f\u00f6rs\u00f6k igen senare"}};
+var likeButtonData = {"ajax_url":"https:\/\/hbgstories.se\/wp\/wp-admin\/admin-ajax.php","nonce":"a2d4a2aec5"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='https://hbgstories.se/wp-content/themes/municipio/assets/dist/js/app.js' id='municipio-js'></script>
+<script type='text/javascript' defer="defer" src='https://hbgstories.se/wp-content/themes/municipio/assets/dist/js/ajax.js' id='municipio-ajax-js'></script>
+<script type='text/javascript' defer="defer" src='https://cdn.polyfill.io/v3/polyfill.min.js?ver=5.7.2' id='polyfill-js'></script>
+<script type='text/javascript' id='form-builder-js-front-js-extra'>
+/* <![CDATA[ */
+var formbuilder = {"site_key":"6Ld8YTEUAAAAAECqGGXNZbyMIfG0xZMIOJM_D3Vw","sending":"Skickar","checkbox_required":"Du m\u00e5ste kryssa f\u00f6r minst ett alternativ","something_went_wrong":"N\u00e5got gick fel"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='https://hbgstories.se/wp-content/plugins/modularity-form-builder/dist/js/modularity-form-builder-front.f828ff70.js' id='form-builder-js-front-js'></script>
+
+            <script>
+            WebFont.load({
+                google: {
+                  families: ['Roboto:300,400,400i,500,500i,700,700i,900']
+                },
+                timeout: 2000
+              });
+            </script>
+        
+            <style>
+            body {
+                font-family: Roboto,system,Segoe UI,Tahoma,-apple-system;
+            }
+            </style>
+        <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style>.site-header.header-jumbo .logotype img, .site-header.header-jumbo .logotype svg {
+    height: 130px;
+}
+
+/*tempfix header*/
+@media only screen and (max-width: 600px) {
+header{background-color: #005c86}
+}
+@media only screen and (max-width: 1024px) {
+header{background-color: #005c86}
+}
+/*tempfix header end*/</style>
+</head>
+<body class="page-template-default page page-id-657 page-child parent-pageid-502 no-js t-municipio">
+
+<a href="#main-menu" class="btn btn-default btn-block btn-lg btn-offcanvas"
+   tabindex="1">Hoppa till huvudmenyn</a>
+<a href="#main-content" class="btn btn-default btn-block btn-lg btn-offcanvas"
+   tabindex="2">Hoppa till innehåll</a>
+
+<div id="wrapper">
+    
+    
+    <header id="site-header" class="site-header site-header header-jumbo header-light">
+        <div class="print-only container">
+            <div class="grid">
+                <div class="grid-sm-12">
+                    <a href="https://hbgstories.se" class="logotype" ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 378.47 232.34"><defs><style>.cls-1,.cls-2{font-size:121.87px;fill:#fff;font-family:Roboto-Black, Roboto;font-weight:800;}.cls-2{letter-spacing:0em;}.cls-3{letter-spacing:-0.02em;}.cls-4{letter-spacing:0em;}.cls-5{letter-spacing:0em;}</style></defs><title>Resurs 1</title><g data-name="Lager 2" id="Lager_2"><g data-name="Lager 1" id="Lager_1-2"><text class="cls-1" transform="translate(0 104.26)">hbg </text><text class="cls-2" transform="translate(0 199.32)">s<tspan class="cls-3" x="62.18" y="0">t</tspan><tspan class="cls-4" x="102.06" y="0">orie</tspan><tspan class="cls-5" x="316.04" y="0">s</tspan></text></g></g></svg></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-top hidden-sm hidden-print" id="search">
+    <div class="container">
+        <div class="grid">
+            <div class="grid-sm-12">
+                <div class="search" itemscope itemtype="http://schema.org/WebSite">
+    <meta itemprop="url" content="https://hbgstories.se">
+
+    <form method="get" action="https://hbgstories.se" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+        <meta itemprop="target" content="https://hbgstories.se/?s={search_term_string}">
+
+                    <label for="searchkeyword-1" class="sr-only">Sök</label>
+        
+        <div class="input-group input-group-lg">
+            <input itemprop="query-input" required id="searchkeyword-1" autocomplete="off" class="form-control form-control-lg" type="search" name="s" placeholder="What are you looking for?" value="">
+            <span class="input-group-addon-btn">
+                <input type="submit" class="btn btn-primary btn-lg" value="Sök">
+            </span>
+        </div>
+    </form>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-mainmenu hidden-print  ">
+    <div class="container">
+        <div class="grid">
+            <div class="grid-xs-12 grid-md-12">
+                <div class="grid">
+                    <div class="grid-sm-12 grid-md-4">
+                        <a href="https://hbgstories.se" class="logotype" ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 378.47 232.34"><defs><style>.cls-1,.cls-2{font-size:121.87px;fill:#fff;font-family:Roboto-Black, Roboto;font-weight:800;}.cls-2{letter-spacing:0em;}.cls-3{letter-spacing:-0.02em;}.cls-4{letter-spacing:0em;}.cls-5{letter-spacing:0em;}</style></defs><title>Resurs 1</title><g data-name="Lager 2" id="Lager_2"><g data-name="Lager 1" id="Lager_1-2"><text class="cls-1" transform="translate(0 104.26)">hbg </text><text class="cls-2" transform="translate(0 199.32)">s<tspan class="cls-3" x="62.18" y="0">t</tspan><tspan class="cls-4" x="102.06" y="0">orie</tspan><tspan class="cls-5" x="316.04" y="0">s</tspan></text></g></g></svg></a>
+
+                                                <a href="#mobile-menu" data-target="#mobile-menu" class="hidden-md hidden-lg menu-trigger"><span class="menu-icon"></span></a>
+                                            </div>
+
+                                        <div class="grid-md-8 text-right hidden-xs hidden-sm">
+                        <nav class="nav-group-overflow" data-btn-width="100">
+                            <ul id="main-menu" class="nav nav-right hidden-xs hidden-sm"><li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-238"><a href="https://hbgstories.se/">Start</a></li>
+<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="https://hbgstories.se/var-hittar-jag-hbg-stories/">Var hittar jag hbg stories?</a></li>
+</ul>
+                            <span class="dropdown">
+<span class="btn btn-primary dropdown-toggle hidden">Mer</span>
+<ul class="dropdown-menu nav-grouped-overflow hidden"></ul>
+</span>
+
+                        </nav>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+    <nav id="mobile-menu" class="nav-mobile-menu nav-toggle-expand nav-toggle hidden-md hidden-lg hidden-print">
+        <form class="search" method="get" action="/">
+    <label for="searchkeyword-mobile" class="sr-only">Search</label>
+
+    <div class="input-group">
+        <input id="searchkeyword-mobile" autocomplete="off" class="form-control" type="search" name="s" placeholder="Vad letar du efter?" value="">
+        <span class="input-group-addon-btn">
+            <input type="submit" class="btn btn-primary" value="Search">
+        </span>
+    </div>
+</form>
+
+<ul id="menu-meny" class="nav-mobile"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-238"><a href="https://hbgstories.se/">Start</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="https://hbgstories.se/var-hittar-jag-hbg-stories/">Var hittar jag hbg stories?</a></li>
+</ul>
+
+
+    </nav>
+    </header>
+
+    
+    
+
+
+    <main id="main-content" class="clearfix main-content">
+        
+<div class="container main-container u-pb-5">
+
+    <div class="grid breadcrumbs-wrapper u-mb-6 u-mt-3">
+    <div class="grid-lg-12">
+        <ol class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="https://hbgstories.se" title="Hem">
+                            <span itemprop="name">Hem</span><meta itemprop="position" content="1"></a>
+                        </li>
+<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+                                            <a itemprop="item" href="https://hbgstories.se/alla-artiklar/" title="Alla artiklar">
+                                                <span itemprop="name">Alla artiklar</span>
+                                                <meta itemprop="position" content="2" />
+                                            </a>
+                                       </li>
+<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+                                    <span itemprop="name" class="breadcrumbs-current" title="hbg stories &#8211; bilden av Helsingborg">hbg stories &#8211; bilden av Helsingborg</span>
+                                    <meta itemprop="position" content="3" />
+                                </li></ol>
+    </div>
+</div>
+
+    <div class="grid no-margin-top">
+        
+        <div class="grid-xs-12 grid-print-12" id="readspeaker-read">
+
+            
+                            
+
+                <article id="article" class="clearfix u-mb-4">
+    <h1>hbg stories &#8211; bilden av Helsingborg</h1>
+
+    <ul class="nav nav-help nav-accessibility nav-horizontal hidden-print rs_skip rs_preserve">
+				<li>
+			<a href="#" onclick="window.print();return false;" class=""><i class="pricon pricon-print"></i> Skriv ut</a>
+		</li>
+		</ul>
+
+
+    
+                                        <p><strong>Hbg stories är mer än ett magasin. Det är ett koncept.  Vi bestämde oss därför för att uppmana alla fotointresserade helsingborgare att skicka in de bilder till oss som de tycker speglar staden bäst. Ett grepp som nu har mynnat ut i fotoutställningen &#8221;hbg stories &#8211; bilden av Helsingborg&#8221;, som tidigare funnits att ta del av på Dunkers kulturhus, och som nu får vidare liv här.</strong></p>
+<p>Mer information om urvalsarbetet och tankarna bakom projektet finner du <a href="https://hbgstories.se/hbg-stories-later-fotografer-spegla-sin-bild-av-helsingborg/">här</a>.</p>
+
+                        
+</article>
+            
+                            <div class="grid grid--columns sidebar-content-area sidebar-content-area-bottom">
+                    <div class="modularity-mod-image modularity-mod-image-665 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Anja Barte Telin</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/abt_hbg_1-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Den här bilden är från förra årets Art Street Festival där jag för Produktionskollektivets räkning skulle dokumentera arbetet bakom de fyra stora målningarna på Söder. Här hade vi fått möjligheten att komma in i en lägenhet som låg vänd mot väggen. På bilden ser man konstnären Amy Sol, som följde med upp för att få se hur hennes målning såg ut därifrån. Det var en kul process att följa hur Helsingborg enligt min mening blev finare för varje dag som gick."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-685 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Anette Berggren</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/11-52-1024x681.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Michelina lämnade Helsingborg för 30 år sedan. När hon skiljde sig från sin fru visste hon att hon skulle komma tillbaka till Sundets pärla och sluta cirkeln. Nu är hon tillbaka och säger att här vill hon leva, här ska hon dö. Gröningen är favoritstället. Hon berättar för mig: nu ser jag allt det vackra. En ren stad, nya byggnader, jag hör Mariakyrkans klockor och klockspelet i Rådhuset varje dag. Det fanns där alltid, men nu stannar jag upp och ser och hör. Jag är singel men känner mig inte ensam. Jag tar mina dagliga promenader längs med vattnet och känner havets bris. Jag är tillfreds, jag är hemma."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-673 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Martin Sörbo</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/berit_7715-768x512.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Berit Karlsson har bott på Drottninghög hela sitt vuxna liv. Hon var en av de första att flytta in 1969, när området var hypermodernt och ett svar på den tidens problem med trångboddhet och undermåliga bostäder som ofta hade toalett på gården. Hon har bott i samma lägenhet hela tiden och hon är fortfarande kvar, nu när ett gammalt slitet miljonprogramsområde med tveksamt rykte utvecklas till att bli en förebild för hur man utvecklar dem. Hon har sett barn växa upp och flytta hemifrån, hon har orädd stannat kvar, hon har sett allt, hon är en del av Helsingborgs moderna historia."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-679 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Linda Unnhem</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/02-53-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Det var en sådan där grå dag i oktober då alla hukar under sina paraplyer och går med snabba steg. När det regnar på tvären och man bara vill hem. Men så plötsligt – ett ljus i tunneln! Eller snarare: en färgfest full av blommor och djur. Jag var inte den enda som stannade upp och beundrade graffitikonstnären Christofer ”Sagie” Svedjebys verk på vägen till Gåsebäck. Ett glädjepiller, både i höstrusket och i Helsingborg!"</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-693 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Erik Berrio</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/09-57-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Jag har aldrig haft fotografi som yrke men jag har alltid fotograferat mycket och ganska ofta har jag tagit uppdrag. Både åt tidningar och de där vanliga bilderna: bröllop, gravida kvinnor och dop. Men det är ännu roligare att skapa något eget. Jag tar ofta turer med cykeln och plåtar natur, landskap och gator. En dag i februari kom jag till Kärnan, som förstås är klassisk helsingborgsmark; en rörelse av människor i en strid ström ner och uppför trapporna. Ibland är det en utmaning att hitta en egen vinkel på en plats där det tas en massa bilder. Det var kul att få syn på stenen i trapporna och göra något annat än den klassiska utsiktsvyn."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-696 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Petra Lundin</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/08-51-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Forskningsbåten Sabella hade återvänt till Norra hamnen efter en exkursion till Knähakens marina naturreservat. Jag väntade med kameran på kajkanten, gick ombord och fick se en hink med några spännande fynd från Öresunds botten. Jag fäste mig särskilt vid en liten svart kudde med hullingar i ändarna. En sådan hade jag aldrig sett förut. Men när jag fick ledtråden att det var ett ägg som var sin mor i upp i dagen, hade jag inte svårt att se en rocka framför mig."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-706 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Jonny Magnusson</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/06-57-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"En bild av Helsingborg som många inte får se. Alla dykare städar hela tiden, men den här bilden är från när Helsingborgs Sportdykarklubb har en av sina årliga organiserade städdagar. Jag kallar den ”Alla vill bo i Ramlösa”. När vi städar finns det några som blir av med sina hem. Denna fisk hade valt en Ramlösaburk som sitt hem, med en strandsnäcka på taket. Vi får hoppas att han hittade ett nytt lämpligt hem sedan detta förpassats till pantmaskinen."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-709 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>David Nilsson</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/06-54-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">!När jag vill slappna av och andas ut tar jag kameran och beger mig norr om stadens larm. Oftast hamnar jag vid Pålsjöbaden, där bryggorna och hytterna erbjuder spännande perspektiv. Ingenting är mer sommar i Helsingborg för mig än att titta på solnedgången här, när vågorna rullar in från sundet. Denna kväll i juni glödde horisonten i sprakande färger under tunga moln, men jag väntade tills molnen helt dominerade himlen. Den långa exponeringen förstärker känslan av lugn och harmoni."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-712 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Louise Jondalen</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/05-58-1024x681.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Högaborg. Mitt område och min barndom. Lekplatsen nedanför Wieselgrensskolan där jag växte upp. En del är sig på pricken likt. Som den där stenen som en gång var som Mount Everest, åtminstone 1986. Högaborg – ett beryktat problemområde redan när jag var liten. Ändå finns det ingen annan plats på jorden som fortfarande känns så hemma. Platsen som en gång var hela min värld och min trygga borg. Wieselgrensskolan sågs som en värstingskola på 80- och 90-talet. Jag tänker lite annorlunda på den. Det är skolan som jag växt ur för längesen men som aldrig växer ur mig. Att växa upp i mångfald har format mig till den jag är. Ibland var jag den enda lintotten på vår gård. Men vem brydde sig om ursprung och identitet? Inte vi barn i alla fall. Vi var inga fancy kids i något flott område men det fanns drömmar, härlighet och glittrande vardagar även hos oss. Och vi hade alltid vänskapen, tryggheten och gemenskapen. Vi hade alltid varandra."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-718 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Vivien Yue</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/04-53-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Karloly Putnoki hjälper sin systerdotter, en av de få unga koloniägarna på Ringstorps sommarstad. Han hjälper henne med alla möjliga galna projekt som hon får för sig. Testa olika sätt att bli av med den envisa kirskålen. Snickra ihop ett eget kök, en spaljé av björkträ, en hänggunga. Karoly säger: “Hon är en tidsoptimist och har många idéer som tar tid. Jag kommer ihåg när jag var ung och full av energi. Vi körde på. Jag påminner henne ofta om att hon måste njuta av kolonin också. Ibland glömmer hon det. Jag försöker få henne att stanna upp, det är någonting jag själv reflekterar kring. Att vi ska njuta av vårt skapande tillsammans. Vi fick mer tid till våra projekt när corona kom. Men vi började också fokusera på det vi hade framför oss i mänsklig takt, snarare än att vara som ett maskineri. Det har varit en lättnad för oss båda att få skapa här i vårt eget lilla paradis det här året."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-725 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Sarah Perfekt</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/03-59-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Minna Alhassani kommer cyklande över en basketplan på Adolfsberg. Hon håller sitt huvud högt och tittar sig hemtamt omkring. Det här är hennes hoods. Sedan förra hösten är Minna med i Erikshjälpens Framtidsverkstad på området. Första gången hon kom dit var för en musikworkshop som projektledaren Nadine höll tillsammans med tre personer från Hitmaker Studio. Förutom dem var det bara Minna där. Hon hade aldrig skrivit en låt, aldrig tagit sin plats i en grupp. Men workshopen fick henne att växa och hon tycker att kreativitet är ett bra och tryggt sätt att bygga broar mellan människor."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-734 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Lisa Wikstrand</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/03-50-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Vi som är uppvuxna i Helsingborg har växt upp med vinden. Från de första stegen till de oerhört svettiga cykelturerna i motvind hem från skolan. För att inte tala om alla höststormar. En gång tvingade min mamma mig att ha cykelhjälm när jag promenerade till skolan av rädsla för att jag skulle få en takpanna i huvudet. Förstå förnedringen att gå in på skolgården med hjälm men utan cykel. Jag kunde inte knäppa upp hjälmen själv så det fick fröken hjälpa mig med. Nämen Lisa har du cyklat till skolan idag? Nä. Men de där sällsynta vindstilla dagarna, när sundet ligger stilla – åh vad vi helsingborgare njuter andäktigt då! Det är som att hela staden håller andan. För att sen blåsa upp igen. Det här är Cassius, ett år, på Råå vallar."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-699 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Raul Raschetti</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/07-52-768x1024.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Det här är Greta. Jag hälsade på henne en dag, hennes son Bengt körde mig, våra familjer är gamla vänner. Greta föddes i Helsingborg för drygt hundra år sedan och var dotterdotter till Edwin Brink, som målat många motiv från Helsingborg. Som barn till en stins fick hon följa far och mor till olika tågstationer under sin uppväxt. I sena tonåren fick hon tjänst som hattmodist hos fröknarna Wennerholm och Fritz i Helsingborg, som hade gott renommé med bland annat drottning Louise som kund. Det var under upptakten till andra världskriget och Greta berättade att man läste danska tidningar för att få veta mer om aktuellt mode och vid något tillfälle reste till Köpenhamn för att få inspiration till nya hattar. Efter att hon gift sig slutade hon anställningen men fortsatte att tillverka hattar som hobby. När jag besökte henne tog hon flera hattar från garderoben, berättade historien om var och en av dem medan hon stolt provade dem. Greta såg hattarna som pricken över i:et på våra ”looks”, oavsett vilken tid vi lever i. Damen med det söta leendet lämnade oss tyvärr i våras."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-721 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Lars Jansson</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/04-52-683x1024.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Ett speciellt porträtt på en speciell person. Charlotte var arbetslös och plockade upp måleriet. En dag när papperet tog slut stod hennes gamla slitna Adidas Stan Smith där, så hon började måla på dem. Det blev starten på det egna företaget Talking Shoes Walking Art. Det kanske inte är läge att satsa på ett eget designföretag om man är högerhänt och saknar en högerarm. Och det är ännu tuffare om man är högerhänt och har smärtor. Men sånt skiter väl Charlotte i. Jag ville fånga hennes personlighet och protesen hon har är en del av hennes berättelse. Jag tänkte jag skulle föreslå att vi skulle testa med en sko på huvudet, men hon hann först. Hon ville ha något corny som stack ut. Jag tycker porträttet fångar henne; seriös men samtidigt lite knäpp – i den mest positiva bemärkelsen."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-737 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Kristoffer Granath</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/02-58-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Carnot är ett långtidsboende för missbrukare. Det ligger på Planteringen och ingår i projektet Bostad Först. Vi dokumenterade projektet och intervjuade både brukare och medarbetare. Det här är ett så kallat lågtröskelboende, killen som bodde här var fortfarande i missbruk. Och det ser inte vackert ut men han tyckte att hans bostad var helt fantastisk. 84 procent av de som får en bostad stannar kvar, då har man gjort nånting rätt. Helsingborg är en pilot, resultatet är helt makalöst. Det här är ett sätt att visa vad som görs så att det känns."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-740 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Martin Sörbo</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/02-57-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"När Cissi berättar att hon är rektor på Drottninghögsskolan kan hon få höra; men är inte det farligt? Det är en reaktion hon är trött på. Skolan rykte har inte hängt med i utvecklingen. För några år sedan var det stora problem på skolan. Mängder av tid gick åt till konflikthantering, eleverna bråkade och lärarna slutade. Ett tag var lärarbehörigheten bara 40 procent. Nu är den 93. Skolan tog till flera radikala lösningar. En var att plocka bort den fria leken på rasterna och anställa två hälsopedagoger som höll i fysiska aktiviteter. En annan att anställa en restaurangvärdinna. En tredje att starta projektet Hela skolan läser för att få fler elever att lära sig svenska språket tidigare. Jag ville flytta ut den här berättelsen från skrivbordet till skolgården. Genom att låta barnen promenera runt Cissi fick bilden en naturlig rörelse. "</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-728 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Pontus Ekeroth</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/03-55-819x1024.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Jag såg mig om i staden efter något som verkligen var talande för den här speciella våren. Och fastnade för det mobila sjukhustältet utanför lasarettet, byggt i all hast för att ta emot den befarade vågen av coronapatienter. Det för tankarna till en krigszon. Samtidigt som det finns nåt fint och trösterikt över det. Jag undrar om vi någonsin kommer att få se ett sådant tält i staden igen, när corona är över? Man kan ju hoppas att vi slipper."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-749 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Zlatan Softic</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/00-51-795x1024.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"En kall februaridag vid Pålsjöbaden. Jag hade länge velat visa kallbadhuset från ett perspektiv som vi inte är vana vid att se. Tidpunkten på året var viktig för att förmedla rätt känsla. Det är friska vindar och på sina håll tät dimma. På bryggan går två individer, man får titta noga för att få syn på dem från den här höjden. Kvinnan kommer att ta till vänster, mannen till höger, på sin väg ut mot badhytterna. Det är ett modigt par på väg mot något som för mig känns helt främmande på vinterhalvåret."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-746 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Elin Nermark</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/01-54-683x1024.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Jag och Linus gick i samma klass på högstadiet, men tappade kontakten efter att vi slutat nian. Så en dag hörde han av sig och vi bestämde träff. Jag hade köpt min första kamera bara någon vecka innan och Linus hade alls inget emot att bli plåtad. Vi begav oss till Pixlapiren ute vid Oceanhamnen och där träffade vi André, som har haft sponsorer och kört de stora tävlingarna som professionell skejtare. Linus fick en massa tips som gjorde att han utvecklades enormt bara över dagen. Och jag fick lära mig en massa om vikten av samspel mellan fotograf och modell. Det var helt enkelt en toppendag."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-715 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Christina Johansson</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/05-57-516x1024.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Jag var ute och letade motiv med kameran när det plötsligt kom ett hällregn. Jag tog skydd under en markis och tänkte att här kan det bli roliga bilder när människor rusade omkring och försökte undvika det nästan forsande regnet. Och så dyker hon upp, den här kvinnan som helt oberörd och nästan graciöst vandrade gatan fram och trotsade regnet. Hon är nästan lite geishalik. Jag får där och då känslan av att befinna mig någonstans i Japan."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-731 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Teddy Strandqvist</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/03-53-1024x768.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Anki Lagmark driver Mors Kakeri från sitt garage på Eskilsminne. Jag var där med min fotografkollega Anders Ebefeldt och vi ville ha en bild som berättade något om just det, en verksamhet mitt i ett villaområde. Ett område som dessutom är ganska fotogeniskt. Gamla kvarter med olika typer av hus och uppväxta trädgårdar, en massa liv. Vi använde drönare men gick aldrig upp till den där klassiska drönarbildshöjden på 50 meter. Det krävs ett visst driv för att ge sig på att starta ett bageri mitt i ett villaområde. Anki berättade att hon är inne på sin tredje bettskena när de flesta andra behöver max en. Men det är en fantastisk liten rörelse, det kan stå sötsugna på kö utanför hennes kakbil på helgerna. Genom att gå lagom högt upp fångade vi den där businessen mitt i villaidyllen."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-690 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Solveig Fagerlund</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/10-59.jpg" alt="&quot;Jag brukar ofta vandra vid Knähaken och har tagit många bilder på vattnet, fåglarna och musselskalen, men alltid i dagsljus. En sen kväll i oktober 2019 var jag och min kompis Lisbet ute och tog några bilder, bland annat denna, som blev lätt dramatisk i det nästan obefintliga ljuset. Till vänster bakom gallerstaketet syns ett upplyst fönster i Knähakens koloniområde, röken från skorstenarna på Kemiraområdet söker sig mot havet och sedan upp i molnen.&quot;" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Jag brukar ofta vandra vid Knähaken och har tagit många bilder på vattnet, fåglarna och musselskalen, men alltid i dagsljus. En sen kväll i oktober 2019 var jag och min kompis Lisbet ute och tog några bilder, bland annat denna, som blev lätt dramatisk i det nästan obefintliga ljuset. Till vänster bakom gallerstaketet syns ett upplyst fönster i Knähakens koloniområde, röken från skorstenarna på Kemiraområdet söker sig mot havet och sedan upp i molnen."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-682 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Jill Jarnsäter</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/11-55-1024x1024.jpg" alt="" class="block-level image-responsive">
+
+<p class="gutter gutter-sm wp-caption-text">"Det finns en lång tradition av bastubad i Helsingborg. I 150 år har det funnits kallbadhus och det går knappt att tänka sig ett Helsingborg utan dem. I bastun är vi alla lika och samtidigt olika, kroppar och tankar, oro och glädje. Bastu är ett utmärkt verktyg för välbefinnandet, som att den gör oss mjukare i både kropp och sinne – inte undra på att den förr kallades “Den fattiges apotek”."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-743 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Linda Unnhem</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/02-52-1024x683.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Jag har alltid samlat på positiva människor. Människor som ser möjligheter istället för motstånd. Kanske för att jag tror att det smittar av sig, om jag håller dem nära. Under coronavåren blev det ganska tydligt vilka som ställde om och vilka som ställde in och personligen tyckte jag att det fanns något fint, och ibland rörande, i allt nytänk. Till exempel kände jag mig jättepepp när jag mötte ett gäng seniorer som tränade tillsammans utomhus på Gröningen. Handskar, handsprit och avstånd, ja, men framförallt kämparlust, träningsglädje och en fantastisk gemenskap. På bilden syns Mona, 83, på det som borde vara ett av världens vackraste gym."</p>
+</div>
+</div><div class="modularity-mod-image modularity-mod-image-759 grid-md-6"><div class="box box-plain wp-caption">
+    <h2>Sara Aatig</h2>
+
+    <img src="https://hbgstories.se/wp-content/uploads/sites/144/2020/11/11-58-jpg-605x1024.jpg" alt="" class="block-level ">
+
+<p class="gutter gutter-sm wp-caption-text">"Min mamma tycker den här bilden symboliserar känslor som ”nyfiken, vital och frihet”. Tvärtom känner jag! Själv ser jag hur rådjuret smälter in i ett av rapsfälten som omger Helsingborg. Hen kamouflerar sig för att inte bli upptäckt. Lite som jag, som stänger in mig på rummet ibland i hopp om att ingen ska knacka."</p>
+</div>
+</div>                </div>
+            
+            
+            <div class="hidden-xs hidden-sm hidden-print">
+                <footer class="page-footer u-mb-4">
+        <div class="grid grid--columns">
+        <div class="grid-xs-12">
+            <div class="box box-border gutter gutter-horizontal no-margin hidden-print">
+                <div class="gutter gutter-vertical gutter-sm">
+                <div class="grid grid-table grid-va-middle no-margin no-padding">
+                    <div class="grid-auto">
+                        <i class="pricon pricon-share pricon-lg" style="margin-right:5px;"></i> <strong>Dela sidan:</strong> <span class="u-hidden@xs">hbg stories &#8211; bilden av Helsingborg</span>
+                    </div>
+                    <div class="grid-fit-content text-right-md text-right-lg">
+                        <!-- Social -->
+<ul class="share share-social share-social-icon-md share-horizontal share-no-labels hidden-print inline-block">
+    <li>
+        <a class="share-social-facebook" data-action="share-popup" href="https://www.facebook.com/sharer/sharer.php?u=https://hbgstories.se/?socialShareId=657" data-tooltip="Dela på Facebook">
+            <i class="pricon pricon-facebook"></i>
+            <span>Dela på Facebook</span>
+        </a>
+    </li>
+    <li>
+        <a class="share-social-twitter" data-action="share-popup" href="http://twitter.com/share?url=https://hbgstories.se/?socialShareId=657" data-tooltip="Dela på Twitter">
+            <i class="pricon pricon-twitter"></i>
+            <span>Dela på Twitter</span>
+        </a>
+    </li>
+    <li>
+        <a class="share-social-linkedin" data-action="share-popup" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://hbgstories.se/?socialShareId=657&amp;title=hbg+stories+%26%238211%3B+bilden+av+Helsingborg" data-tooltip="Dela på LinkedIn">
+            <i class="pricon pricon-linkedin"></i>
+            <span>Dela på LinkedIn</span>
+        </a>
+    </li>
+    <li>
+        <a class="share-social-email" data-action="share-email" href="#modal-target-657" data-tooltip="Dela med e-post">
+            <i class="pricon pricon-email"></i>
+            <span>Dela med e-post</span>
+        </a>
+        <div id="modal-target-657" class="modal modal-backdrop-2 modal-xs text-left" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content material-shadow-lg">
+        <form class="social-share-email">
+            <div class="modal-header">
+                <a class="btn btn-close" href="#close"></a>
+                <h2 class="modal-title">Dela med e-post</h2>
+            </div>
+            <div class="modal-body">
+                <article>
+                    <div class="form-group">
+                        <label>URL</label>
+                        <a href="https://hbgstories.se/alla-artiklar/bilden-av-helsingborg/" target="_blank">https://hbgstories.se/alla-artiklar/bilden-av-helsingborg/</a>
+                    </div>
+                                            <div class="form-group">
+                            <label for="sender-name">Ditt namn <span class="text-danger">*</span></label>
+                            <input type="text" name="sender_name" id="sender-name" placeholder="Ditt namn" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="sender-email">Din e-postadress <span class="text-danger">*</span></label>
+                            <input type="email" name="sender_email" id="sender-email" placeholder="Din e-postadress" required>
+                        </div>
+                                        <div class="form-group">
+                        <label for="recipient-email">Mottagarens e-postadress <span class="text-danger">*</span></label>
+                        <small>Ange en eller flera e-postadresser. Separera med kommatecken.</small>
+                        <input type="text" name="recipient_email" id="recipient-email" placeholder="Mottagarens e-postadress" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Meddelande</label>
+                        <textarea name="message" id="message" rows="4" placeholder="Meddelande"></textarea>
+                    </div>
+                                            <div class="form-group">
+                            <div class="g-recaptcha" data-sitekey="6Ld8YTEUAAAAAECqGGXNZbyMIfG0xZMIOJM_D3Vw"></div>
+                        </div>
+                                    </article>
+            </div>
+            <div class="modal-footer">
+                <input type="hidden" name="post_id" value="657">
+                <input type="hidden" name="share_type" value="share">
+                <input type="submit" class="btn btn-primary" value="Skicka">
+                <input type="hidden" id="_wpnonce" name="_wpnonce" value="80908f0caa" /><input type="hidden" name="_wp_http_referer" value="/alla-artiklar/bilden-av-helsingborg/" /><input type="hidden" id="_wpnonce" name="_wpnonce" value="80908f0caa" /><input type="hidden" name="_wp_http_referer" value="/alla-artiklar/bilden-av-helsingborg/" />
+            </div>
+        </form>
+    </div>
+    <a href="#close" class="backdrop"></a>
+</div>
+    </li>
+</ul>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="grid">
+        <div class="grid-xs-12">
+            <ul class="article-timestamps">
+            <li>
+            <strong>Publicerad av:</strong>
+                        <span class="post-author post-author-margin-left">
+            
+                
+                                    <span class="post-author-name">Thomas Rödin Hulth</span>
+                
+                        </span>
+                    </li>
+    
+    
+            
+            
+    </ul>
+        </div>
+    </div>
+</footer>
+            </div>
+        </div>
+
+            </div>
+
+    <div class="grid grid--columns hidden-md hidden-lg u-hidden@xl">
+        <div class="grid-md-8 offset-md-4">
+            <footer class="page-footer u-mb-4">
+        <div class="grid grid--columns">
+        <div class="grid-xs-12">
+            <div class="box box-border gutter gutter-horizontal no-margin hidden-print">
+                <div class="gutter gutter-vertical gutter-sm">
+                <div class="grid grid-table grid-va-middle no-margin no-padding">
+                    <div class="grid-auto">
+                        <i class="pricon pricon-share pricon-lg" style="margin-right:5px;"></i> <strong>Dela sidan:</strong> <span class="u-hidden@xs">hbg stories &#8211; bilden av Helsingborg</span>
+                    </div>
+                    <div class="grid-fit-content text-right-md text-right-lg">
+                        <!-- Social -->
+<ul class="share share-social share-social-icon-md share-horizontal share-no-labels hidden-print inline-block">
+    <li>
+        <a class="share-social-facebook" data-action="share-popup" href="https://www.facebook.com/sharer/sharer.php?u=https://hbgstories.se/?socialShareId=657" data-tooltip="Dela på Facebook">
+            <i class="pricon pricon-facebook"></i>
+            <span>Dela på Facebook</span>
+        </a>
+    </li>
+    <li>
+        <a class="share-social-twitter" data-action="share-popup" href="http://twitter.com/share?url=https://hbgstories.se/?socialShareId=657" data-tooltip="Dela på Twitter">
+            <i class="pricon pricon-twitter"></i>
+            <span>Dela på Twitter</span>
+        </a>
+    </li>
+    <li>
+        <a class="share-social-linkedin" data-action="share-popup" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://hbgstories.se/?socialShareId=657&amp;title=hbg+stories+%26%238211%3B+bilden+av+Helsingborg" data-tooltip="Dela på LinkedIn">
+            <i class="pricon pricon-linkedin"></i>
+            <span>Dela på LinkedIn</span>
+        </a>
+    </li>
+    <li>
+        <a class="share-social-email" data-action="share-email" href="#modal-target-657" data-tooltip="Dela med e-post">
+            <i class="pricon pricon-email"></i>
+            <span>Dela med e-post</span>
+        </a>
+        <div id="modal-target-657" class="modal modal-backdrop-2 modal-xs text-left" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content material-shadow-lg">
+        <form class="social-share-email">
+            <div class="modal-header">
+                <a class="btn btn-close" href="#close"></a>
+                <h2 class="modal-title">Dela med e-post</h2>
+            </div>
+            <div class="modal-body">
+                <article>
+                    <div class="form-group">
+                        <label>URL</label>
+                        <a href="https://hbgstories.se/alla-artiklar/bilden-av-helsingborg/" target="_blank">https://hbgstories.se/alla-artiklar/bilden-av-helsingborg/</a>
+                    </div>
+                                            <div class="form-group">
+                            <label for="sender-name">Ditt namn <span class="text-danger">*</span></label>
+                            <input type="text" name="sender_name" id="sender-name" placeholder="Ditt namn" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="sender-email">Din e-postadress <span class="text-danger">*</span></label>
+                            <input type="email" name="sender_email" id="sender-email" placeholder="Din e-postadress" required>
+                        </div>
+                                        <div class="form-group">
+                        <label for="recipient-email">Mottagarens e-postadress <span class="text-danger">*</span></label>
+                        <small>Ange en eller flera e-postadresser. Separera med kommatecken.</small>
+                        <input type="text" name="recipient_email" id="recipient-email" placeholder="Mottagarens e-postadress" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Meddelande</label>
+                        <textarea name="message" id="message" rows="4" placeholder="Meddelande"></textarea>
+                    </div>
+                                            <div class="form-group">
+                            <div class="g-recaptcha" data-sitekey="6Ld8YTEUAAAAAECqGGXNZbyMIfG0xZMIOJM_D3Vw"></div>
+                        </div>
+                                    </article>
+            </div>
+            <div class="modal-footer">
+                <input type="hidden" name="post_id" value="657">
+                <input type="hidden" name="share_type" value="share">
+                <input type="submit" class="btn btn-primary" value="Skicka">
+                <input type="hidden" id="_wpnonce" name="_wpnonce" value="80908f0caa" /><input type="hidden" name="_wp_http_referer" value="/alla-artiklar/bilden-av-helsingborg/" /><input type="hidden" id="_wpnonce" name="_wpnonce" value="80908f0caa" /><input type="hidden" name="_wp_http_referer" value="/alla-artiklar/bilden-av-helsingborg/" />
+            </div>
+        </form>
+    </div>
+    <a href="#close" class="backdrop"></a>
+</div>
+    </li>
+</ul>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="grid">
+        <div class="grid-xs-12">
+            <ul class="article-timestamps">
+            <li>
+            <strong>Publicerad av:</strong>
+                        <span class="post-author post-author-margin-left">
+            
+                
+                                    <span class="post-author-name">Thomas Rödin Hulth</span>
+                
+                        </span>
+                    </li>
+    
+    
+            
+            
+    </ul>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+</div>
+
+
+            </main>
+
+    <footer class="main-footer hidden-print ">
+    <div class="container">
+
+                <div class="grid grid--columns">
+            <div class="grid-sm-12">
+                <nav>
+                    <ul class="nav nav-help nav-horizontal">
+                        
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        
+        <div class="grid">
+            <div class="grid-md-10">
+
+                
+                                
+
+                
+                <div class="grid grid--columns sidebar-footer-area">
+                                            <div class="grid-lg-4"><div class="widget_text">			<div class="textwidget"><p><strong>Redaktion<br />
+</strong>e-post: <a href="mailto:hbgstories@helsingborg.se">hbgstories@helsingborg.se</a></p>
+<p>Helsingborgs stad<br />
+251 89 Helsingborg<br />
+Organisationsnummer: 212000-1157</p>
+<p><strong>Ansvarig utgivare<br />
+</strong><a href="mailto:simon.wikstrand@helsingborg.se">simon.wikstrand@helsingborg.se</a></p>
+<p><strong>Innehållsansvarig<br />
+</strong><a href="mailto:david.lindman@helsingborg.se">david.lindman@helsingborg.se</a></p>
+</div>
+		</div></div>                                    </div>
+                
+
+                
+                                <div class="grid no-margin-top">
+                    <div class="grid-xs-12">
+                        <a href="https://hbgstories.se" class="logotype" ></a>
+                    </div>
+                </div>
+                                
+            </div>
+
+            
+                            <div class="grid-md-2 text-right">
+                    <a href="http://www.helsingborg.se"></a>
+
+                </div>
+                    </div>
+    </div>
+
+    
+    
+</footer>
+
+    
+    
+    
+</div>
+
+<script type='text/javascript' defer="defer" src='https://hbgstories.se/wp/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' defer="defer" src='https://instant.page/3.0.0?ver=5.7.2' id='instant-page-js'></script>
+<script type='text/javascript' defer="defer" src='https://hbgstories.se/wp-content/plugins/modularity/dist/js/Posts/assets/mod-posts-load-more-button.js' id='mod-posts-load-more-button-js'></script>
+<script type='text/javascript' id='google-recaptcha-js-before'>
+            var CaptchaCallback = function() {
+                jQuery('.g-recaptcha').each(function(index, el) {
+                    grecaptcha.render(el, {'sitekey' : '6Ld8YTEUAAAAAECqGGXNZbyMIfG0xZMIOJM_D3Vw'});
+                });
+            };
+</script>
+<script type='text/javascript' defer="defer" src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&#038;render=explicit&#038;ver=1.0.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' defer="defer" src='https://hbgstories.se/wp/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script>
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement(
+                {
+                    pageLanguage: 'sv',
+                    autoDisplay: false,
+                    gaTrack: HbgPrimeArgs.googleTranslate.gaTrack,
+                    gaId: HbgPrimeArgs.googleTranslate.gaUA,
+                },
+                'google-translate-element'
+            );
+        }
+        </script>
+
+
+</body>
+</html>
